@@ -162,7 +162,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 410.49604139382393
+      "z": 309.1710691510446
     },
     "_scale": {
       "__type__": "cc.Vec3",
@@ -809,7 +809,7 @@
       "__id__": 9
     },
     "worldSceneBGM": {
-      "__uuid__": "2d2b04ff-c11b-409e-904b-577e193a45a4"
+      "__uuid__": "61515fac-c351-4413-8187-de2c79eb423f"
     },
     "_id": "dfR9jhfy1Kpqkv1sRWNnar"
   }
