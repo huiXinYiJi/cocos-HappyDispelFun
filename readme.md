@@ -9,10 +9,21 @@
   点击登录按钮  -->> 显示进度条，隐藏登录按钮 -->> 根据预加载游戏场景方法，显示进度条的值
 
 ##### 场景2: 游戏界面
+制作各个动物显示的预制体  
+宽度设置630，每个物体宽高都为70，一行可以放9个图片  
+随机生成地图
+遍历地图
+除去元素,上面的元素补下来
+道具
 
+
+地图:
+随机生成一张地图,但是不能有三个或三个以上在横向和纵向同样的物品
+用户再移动一步就能形成可消除的三个横向或纵向物品,即非死地图
 
 
 ##### Reference
 
-https://github.com/isghost/kaixinxiaoxiaole
-
+https://github.com/isghost/kaixinxiaoxiaole  
+https://blog.csdn.net/LingXi__Y/article/details/79237537  
+https://juejin.im/post/5da9553c5188256a49204ceb  
